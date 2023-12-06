@@ -1,0 +1,18 @@
+.card {
+    margin: 10px;
+}
+
+body {
+    margin-top: 60px;
+}
+
+#hero {
+    margin-top: -60px;
+    background-image: linear-gradient(
+            rgba(0, 0, 0, 0),
+            rgba(0, 0, 0, 0)
+    ),url(herogorilla.jpg);
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
