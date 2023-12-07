@@ -31,6 +31,10 @@ body {
 #hero-text {
     opacity: 0;
     transition: all 0.5s;
+    position: absolute;
+    top: 40%;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 #hero:hover #hero-text {
